@@ -1,0 +1,70 @@
+/* header */
+.header{
+    background-color:  #FFFFFF;
+}
+.logo{
+font-family: Raleway;
+font-style: normal;
+font-weight: bold;
+font-size: 26px;
+line-height: 1.192;
+letter-spacing: 0.03em;
+color: #2196F3;
+}
+.navigation-logo-color {
+color: #212121;
+}
+.navigation-list{
+font-family: Roboto;
+font-style: normal;
+font-weight: 500;
+font-size: 14px;
+line-height: 1.142;
+letter-spacing: 0.02em;
+color: #212121;
+}
+.imel {
+font-family: Roboto;
+font-style: normal;
+font-weight: 500;
+font-size: 14px;
+line-height: 1.142;
+letter-spacing: 0.02em;
+color: #2196F3;
+}
+.tel-link {
+font-family: Roboto;
+font-style: normal;
+font-weight: 500;
+font-size: 14px;
+line-height: 1.142;
+letter-spacing: 0.02em;
+color: #757575;    
+}
+/* <!---подвал-->
+    <footer> */
+.footer{
+background-color:  #2F303A;
+}
+.logo-color{
+color:  #FFFFFF;
+}
+.adress{
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 14px;
+line-height: 1,714;
+letter-spacing: 0.03em;
+color: #FFFFFF;
+}
+
+.section-adress {
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 14px;
+line-height: 1.714;
+letter-spacing: 0.03em;
+color: rgba(255, 255, 255, 0.6);
+}

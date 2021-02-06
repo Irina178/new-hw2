@@ -1,0 +1,10 @@
+printWidth: 80
+tabWidth: 2
+useTabs: false
+полу: правда
+singleQuote: true
+trailingComma: все
+скобкаSpacing: true
+jsxBracketSameLine: ложь
+arrowParens: избегать
+proseWrap: всегда
