@@ -14,7 +14,7 @@ color: #2196F3;
 .navigation-logo-color {
 color: #212121;
 }
-.navigation-list{
+.navigation-list-link{
 font-family: Roboto;
 font-style: normal;
 font-weight: 500;
@@ -22,6 +22,10 @@ font-size: 14px;
 line-height: 1.142;
 letter-spacing: 0.02em;
 color: #212121;
+}
+.navigation-list-link:hover,
+.navigation-list-link:focus{
+color: #2196F3;
 }
 .imel {
 font-family: Roboto;
@@ -32,6 +36,12 @@ line-height: 1.142;
 letter-spacing: 0.02em;
 color: #2196F3;
 }
+
+.tel-link:hover,
+.tel-link:focus{
+color: #2196F3;
+}
+
 .tel-link {
 font-family: Roboto;
 font-style: normal;
@@ -98,6 +108,11 @@ color: #FFFFFF;
 background-color:  #2196F3;
 box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.15);
 border-radius: 4px;
+}
+.box-modal-btn:hover,
+.box-modal-btn:focus{
+color: #ffffff;
+background-color: #2196F3;
 }
 .about-function{
 background-color: #E5E5E5;
